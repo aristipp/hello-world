@@ -1,1 +1,1 @@
-Aded line for git testing
+Added line for git testing
